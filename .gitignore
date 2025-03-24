@@ -1,0 +1,17 @@
+# R-specific files
+.Rhistory
+.RData
+.Rproj.user
+.Renviron
+.Rbuildignore
+.DS_Store
+
+# RStudio project files
+*.Rproj
+
+# R package temporary files
+man/
+.devtools/
+
+# Log files
+*.log
